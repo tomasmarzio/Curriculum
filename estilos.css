@@ -1,0 +1,37 @@
+p   {
+    color: red;
+    font-size: large;
+            
+     }
+li{
+    background-color: yellow;
+}
+#encabezado {
+    color: blue;
+    width: auto;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+#t{
+    color: green;
+    width: auto;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    
+}
+#parrafo{
+    color: blue;
+    background-color: aquamarine;
+    font-size: x-large;
+    margin: 200px;
+    border-radius: solid 4px;
+    padding:100px ;
+}
+.imagen {border:solid 2px;
+    border-radius: 20px;
+    background-color: black;
+    padding: 3px;
+}
